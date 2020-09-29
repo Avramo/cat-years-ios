@@ -14,6 +14,7 @@
 		844FC57B23D0D68900471D0A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 844FC57923D0D68900471D0A /* LaunchScreen.storyboard */; };
 		844FC58623D0D68900471D0A /* cat_yearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 844FC58523D0D68900471D0A /* cat_yearsTests.swift */; };
 		844FC59123D0D68900471D0A /* cat_yearsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 844FC59023D0D68900471D0A /* cat_yearsUITests.swift */; };
+		844FC59F23D0D88F00471D0A /* kitten.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 844FC59E23D0D88F00471D0A /* kitten.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		844FC58C23D0D68900471D0A /* cat yearsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "cat yearsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		844FC59023D0D68900471D0A /* cat_yearsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cat_yearsUITests.swift; sourceTree = "<group>"; };
 		844FC59223D0D68900471D0A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		844FC59E23D0D88F00471D0A /* kitten.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kitten.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				844FC57723D0D68900471D0A /* Assets.xcassets */,
 				844FC57923D0D68900471D0A /* LaunchScreen.storyboard */,
 				844FC57C23D0D68900471D0A /* Info.plist */,
+				844FC59E23D0D88F00471D0A /* kitten.jpg */,
 			);
 			path = "cat years";
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				844FC59F23D0D88F00471D0A /* kitten.jpg in Resources */,
 				844FC57B23D0D68900471D0A /* LaunchScreen.storyboard in Resources */,
 				844FC57823D0D68900471D0A /* Assets.xcassets in Resources */,
 				844FC57623D0D68800471D0A /* Main.storyboard in Resources */,
